@@ -65,11 +65,11 @@ export const footballLegends: FootballLegend[] = [
     id: 6,
     name: "Lionel Messi",
     clues: [
-      "Esta leyenda es delantero argentino",
+      "Tiene mas de 3 botas de oro",
       "Ha ganado mas de 4 Balones de Oro",
       "Tiene +45 copas",
-      "Es conocido por su habilidad para regatear y su pie izquierdo",
-      "Ganó la Copa del Mundo en 2022"
+      "Es el jugador que mas goles le ha marcado al Real Madrid",
+      "Ganó la Copa del Mundo en 2022 y marco en la final"
     ]
   },
   {
@@ -78,20 +78,20 @@ export const footballLegends: FootballLegend[] = [
     clues: [
       "El jugador que estoy pensando es portugués",
       "Es famoso por su físico y a nunca rendirse",
-      "Ha jugado en el Sporting CP, Manchester United, Real Madrid y Juventus",
+      "Es recordado por su chilena al juventus en 2018",
       "Esta a punto de llegar a 1000 goles",
       "Tiene +5 Champions League"
     ]
   },
   {
     id: 8,
-    name: "Franz Beckenbauer",
+    name: "Roberto Carlos",
     clues: [
-      "El jugador que estoy pensando es alemán",
-      "Es conocido como 'El Kaiser'",
-      "Revolucionó la posición de líbero",
-      "Ganó la Copa del Mundo como jugador y como entrenador",
-      "Pasó la mayor parte de su carrera en el Bayern Múnich"
+      "es reconocido por su increíble capacidad para unirse al ataque y crear peligro desde la defensa",
+      "Es mundialmente conocido por sus impresionantes goles de tiro libre, en especial un gol imposible contra Francia",
+      "Defensa brasileño",
+      "ganó la Copa del Mundo en 2002, siendo uno de los defensores más destacados durante ese torneo",
+      "Jugo en real madrid como defensor en 1996-2007"
     ]
   },
   {
@@ -217,24 +217,24 @@ export const footballLegends: FootballLegend[] = [
   },
   {
     id: 20,
-    name: "Garrincha",
+    name: "Gerard Pique",
     clues: [
-      "El jugador que estoy pensando es brasileño",
-      "Tenía las piernas arqueadas debido a una deformidad de nacimiento",
-      "Ganó dos Copas del Mundo con Brasil",
-      "Era conocido por sus regates y fútbol alegre",
-      "Jugó la mayor parte de su carrera en el Botafogo"
+      "Junto a Carlos Puyol, formó una de las mejores parejas de centrales en la historia del fútbol",
+      "Popularizo la manita 5-0 vrs el real madrid",
+      "Jugo en Manchester United y paso a Barcelona en 2008 siendo defensor",
+      "Marco el ultimo y sexto gol vrs real madrid 6-2 en 2009",
+      "ha incursionado en el mundo de los negocios, siendo dueño de varias empresas razon por la que abandono el futbol"
     ]
   },
   {
     id: 21,
     name: "Xavi Hernández",
     clues: [
-      "El jugador que estoy pensando es español",
+      "Perdio el balon de oro frente a messi en 2010",
       "Fue un maestro del pase y el control del balón",
       "Formó una legendaria dupla con Iniesta en el Barcelona",
-      "Ganó el Mundial en 2010 y dos Eurocopas",
-      "Actualmente es entrenador después de jugar sus últimos años en Qatar"
+      "Ganó el Mundial en 2010 y dos Eurocopas en las cuales fue crucial",
+      "Jugo y entreno en el barcelona en 2021"
     ]
   },
   {
@@ -252,10 +252,10 @@ export const footballLegends: FootballLegend[] = [
     id: 23,
     name: "Kylian Mbappé",
     clues: [
-      "El jugador que estoy pensando es francés",
+      "Marco 3 goles en la final del mundial 2022",
       "Ganó el Mundial siendo muy joven en 2018",
       "Jugó en el Monaco y PSG antes de dar el salto a otro gigante europeo",
-      "Es conocido por su increíble velocidad",
+      "Es conocido por su increíble velocidad ",
       "Es considerado el heredero de Cristiano"
     ]
   },
@@ -263,7 +263,7 @@ export const footballLegends: FootballLegend[] = [
     id: 24,
     name: "Kaká",
     clues: [
-      "El jugador que estoy pensando es brasileño",
+      "Fue el ultimo mejor jugador antes de Messi y CR7",
       "Ganó el Balón de Oro en 2007",
       "Jugó en el São Paulo, Milan y Real Madrid",
       "Era conocido por sus carreras elegantes con el balón",
@@ -276,8 +276,8 @@ export const footballLegends: FootballLegend[] = [
     clues: [
       "El jugador que estoy pensando es sueco",
       "Es famoso por su personalidad extravagante y sus declaraciones",
-      "Ha jugado en múltiples grandes clubes como Ajax, Juventus, Barcelona, PSG, Milan y Manchester United",
-      "Es conocido por sus goles acrobáticos",
+      "Regreso al Milan para hacerlo campeon en 2022 aunque no jugo muchos partidos",
+      "Es conocido por sus goles acrobáticos y chilenas",
       "Se refiere a sí mismo en tercera persona"
     ]
   },
@@ -327,7 +327,7 @@ export const footballLegends: FootballLegend[] = [
   },
   {
     id: 30,
-    name: "Samuel Eto'o",
+    name: "Samuel Etoo",
     clues: [
       "El jugador que estoy pensando es camerunés",
       "Ganó la Champions League con el Barcelona y el Inter en años consecutivos",
@@ -349,24 +349,24 @@ export const footballLegends: FootballLegend[] = [
   },
   {
     id: 32,
-    name: "Rivaldo",
+    name: "Buffon",
     clues: [
-      "El jugador que estoy pensando es brasileño",
-      "Ganó el Balón de Oro en 1999",
-      "Formó parte del tridente 'Las Tres R' con Ronaldo y Ronaldinho",
-      "Ganó el Mundial de 2002 con Brasil",
-      "Es famoso por un espectacular gol de chilena con el Barcelona"
+      "Considerado el mejor portero de la historia en Italia",
+      "Ganó el mundial con Italia en 2006 siendo el portero titular",
+      " reconocido por su longevidad, habiendo jugado al más alto nivel hasta los 40 años retirandose en 2023",
+      "Jugo gran parte de su carrera en la Juventus",
+      "Fue expulsado y estallo en enojo frente al arbitro en la cuartos de final de la champions 2018"
     ]
   },
   {
     id: 33,
-    name: "Paul Scholes",
+    name: "Wayne Rooney",
     clues: [
-      "El jugador que estoy pensando es inglés",
-      "Jugó toda su carrera en el Manchester United",
-      "Era conocido por su excelente técnica y visión de juego",
-      "Ganador de múltiples Premier Leagues y Champions League",
-      "Era pelirrojo y muy admirado por Xavi e Iniesta"
+      "pasó la mayor parte de su carrera en el Manchester United, donde se convirtió en el máximo goleador de la historia del club",
+      "Fue el máximo goleador de la historia de la selección inglesa durante mucho tiempo",
+      "gano 5 títulos de la Premier League, 1 Champions League (2008)",
+      "Es recordado su gol de chilena al manchester city en 2011",
+      "Podía actuar como delantero centro, segundo delantero e incluso como mediocampista ofensivo"
     ]
   },
   {
