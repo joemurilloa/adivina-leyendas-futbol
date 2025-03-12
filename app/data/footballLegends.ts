@@ -437,6 +437,17 @@ export const footballLegends: FootballLegend[] = [
   },
   {
     id: 40,
+    name: "Neuer",
+    clues: [
+      "El jugador que estoy pensando es portero aleman",
+      "Gano 11 Bundesligas con el Bayern Munich",
+      "Campeon del mundo en el 2014",
+      "Considerado uno de los mejores porteros de la historia",
+      "Tuvo una polemica falta contra Higuain en el Mundial 2014",
+    ]
+  },
+  {
+    id: 41,
     name: "Marco van Basten",
     clues: [
       "El jugador que estoy pensando es holandés",
