@@ -321,6 +321,8 @@ const AdivinaLeyenda: React.FC = () => {
         <p>Desarrollado por Joe Murillo - 2025</p>
         <p className="mt-1">¡Demuestra cuánto sabes de las leyendas del fútbol!</p>
       </footer>
+
+      <p className="text-center text-gray-500 mt-4">By Joe</p>
     </div>
   );
 };
