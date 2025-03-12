@@ -14,39 +14,39 @@ export const footballLegends: FootballLegend[] = [
       "Ganó tres Copas del Mundo",
       "Es considerado uno de los mejores jugadores de todos los tiempos",
       "Jugó la mayor parte de su carrera en el Santos FC",
-      "Marcó más de 1000 goles en su carrera"
+      "Marcó más de 700 goles en su carrera"
     ]
   },
   {
     id: 2,
     name: "Diego Maradona",
     clues: [
-      "El jugador que estoy pensando es argentino",
+      "El jugador que estoy pensando es argentino y delantero",
       "Es famoso por la 'Mano de Dios'",
       "Ganó el Mundial de 1986",
-      "Jugó en el Napoli y lo llevó a ganar su primer Scudetto",
-      "Usaba el número 10 en su camiseta"
+      "Murio en el 2020 toda argentina lo lloro",
+      "Anoto 2 goles contra inglaterra en el mundial de 1986"
     ]
   },
   {
     id: 3,
     name: "Johan Cruyff",
     clues: [
-      "El jugador que estoy pensando es holandés",
+      "El jugador que estoy pensando es delanteroholandés",
       "Revolucionó el fútbol con un estilo de juego llamado 'fútbol total'",
       "Ganó tres Balones de Oro",
       "Jugó y entrenó al FC Barcelona",
-      "Tiene una jugada famosa que lleva su nombre: 'El giro de Cruyff'"
+      "Su rival mas grande fue Franz Beckenbauer"
     ]
   },
   {
     id: 4,
     name: "Zinedine Zidane",
     clues: [
-      "El jugador que estoy pensando es francés",
+      "El jugador que estoy pensando es un genio francés",
       "Ganó la Copa del Mundo en 1998",
-      "Es famoso por un cabezazo en la final del Mundial 2006",
-      "Jugó en la Juventus y el Real Madrid",
+      "Es famoso por dar un cabezazo en la final del Mundial 2006",
+      "Jugó en la Juventus y el Real Madrid ambas aficiones lo aman",
       "Después de retirarse, entrenó al Real Madrid y ganó tres Champions League consecutivas"
     ]
   },
@@ -54,20 +54,20 @@ export const footballLegends: FootballLegend[] = [
     id: 5,
     name: "Ronaldo Nazário",
     clues: [
-      "El jugador que estoy pensando es brasileño",
+      "El jugador que estoy pensando es delanterobrasileño",
       "Es conocido como 'El Fenómeno'",
       "Ganó dos Copas del Mundo",
       "Jugó en el Barcelona, Inter, Real Madrid y Milan",
-      "Sufrió graves lesiones de rodilla que afectaron su carrera"
+      "Por mucho tiempo fue el goleador mas grande del mundial"
     ]
   },
   {
     id: 6,
     name: "Lionel Messi",
     clues: [
-      "El jugador que estoy pensando es argentino",
-      "Ha ganado múltiples Balones de Oro",
-      "Jugó la mayor parte de su carrera en el FC Barcelona",
+      "Esta leyenda es delantero argentino",
+      "Ha ganado mas de 4 Balones de Oro",
+      "Tiene +45 copas",
       "Es conocido por su habilidad para regatear y su pie izquierdo",
       "Ganó la Copa del Mundo en 2022"
     ]
@@ -77,10 +77,10 @@ export const footballLegends: FootballLegend[] = [
     name: "Cristiano Ronaldo",
     clues: [
       "El jugador que estoy pensando es portugués",
-      "Es famoso por su físico y potencia",
+      "Es famoso por su físico y a nunca rendirse",
       "Ha jugado en el Sporting CP, Manchester United, Real Madrid y Juventus",
-      "Ha ganado múltiples Champions League",
-      "Es conocido por su celebración gritando 'Siu'"
+      "Esta a punto de llegar a 1000 goles",
+      "Tiene +5 Champions League"
     ]
   },
   {
@@ -98,22 +98,22 @@ export const footballLegends: FootballLegend[] = [
     id: 9,
     name: "Ronaldinho",
     clues: [
-      "El jugador que estoy pensando es brasileño",
+      "Gano un titulo en la carcel",
       "Es conocido por su sonrisa y juego alegre",
-      "Ganó la Copa del Mundo en 2002",
+      "Ganó la Copa del Mundo en 2002 con Brasil",
       "Jugó en el PSG, Barcelona y Milan",
       "Ganó el Balón de Oro en 2005"
     ]
   },
   {
     id: 10,
-    name: "Michel Platini",
+    name: "Kevin De Bruyne",
     clues: [
-      "El jugador que estoy pensando es francés",
-      "Ganó tres Balones de Oro consecutivos",
+      "Es considerado uno de los mejores pasadores del mundo en Premier League",
+      " fue clave en el triplete de la temporada con el manchester city",
       "Jugó principalmente en la Juventus",
-      "Fue presidente de la UEFA",
-      "Fue campeón de Europa con Francia en 1984"
+      "es conocido por sus tiros de larga distancia, a menudo marcando goles espectaculares desde fuera del área",
+      "Jugador belga que juega en el Manchester City"
     ]
   },
   {
@@ -129,13 +129,13 @@ export const footballLegends: FootballLegend[] = [
   },
   {
     id: 12,
-    name: "Ferenc Puskás",
+    name: "Modric",
     clues: [
-      "El jugador que estoy pensando es húngaro",
-      "Fue parte del 'Equipo de Oro' de Hungría",
-      "Más tarde jugó para el Real Madrid",
-      "La FIFA nombró un premio de gol en su honor",
-      "Era conocido por su potente pie izquierdo"
+      "El jugador que estoy pensando es croata",
+      "Fue el mejor jugador del mundo en 2018",
+      "antes de jugar en el real madrid jugaba en el tottenham",
+      "Es considerado uno de los mejores centrocampista de la historia del real madrid",
+      "Casi gana el mundial con Croacia en el 2018"
     ]
   },
   {
@@ -162,13 +162,13 @@ export const footballLegends: FootballLegend[] = [
   },
   {
     id: 15,
-    name: "Lev Yashin",
+    name: "Victor Valdes",
     clues: [
-      "El jugador que estoy pensando es ruso (soviético)",
-      "Es el único portero en ganar el Balón de Oro",
-      "Era conocido como 'La Araña Negra'",
-      "Jugó toda su carrera en el Dinamo de Moscú",
-      "Es considerado el mejor portero de la historia"
+      "Portero indiscutible del barcelona 2006-2014",
+      "Fue al mundial con España en el 2010 aunque no jugo",
+      "Fue clave en el sextete con el barcelona",
+      "Sufrió una grave lesión de rodilla en 2014, lo que afectó el final de su carrera",
+      "Se consolidó como titular en la porteria de Frank Rijkaard y Pep Guardiola"
     ]
   },
   {
@@ -177,31 +177,31 @@ export const footballLegends: FootballLegend[] = [
     clues: [
       "El jugador que estoy pensando es brasileño",
       "Fichó por el Barcelona en 2013",
-      "Posteriormente se convirtió en el fichaje más caro de la historia",
+      "Posteriormente se convirtió en el fichaje más caro de la historia 222M",
       "Formó parte del tridente 'MSN'",
-      "Jugó en Santos, Barcelona y PSG"
+      "Tiene fama de lesionarse mucho"
     ]
   },
   {
     id: 17,
     name: "Andrés Iniesta",
     clues: [
-      "El jugador que estoy pensando es español",
+      "Marco el gol agonico para el barcelona en stanford bridge 2009",
       "Marcó el gol ganador en la final del Mundial 2010",
-      "Formó una legendaria pareja de centrocampistas en el Barcelona",
+      "Quedo en segundo lugar en el Balon de oro 2010",
       "Es conocido por su visión de juego y control del balón",
-      "Después del Barcelona, se fue a jugar a Japón"
+      "Después de una gran despedida del Barcelona, se fue a jugar a Japón"
     ]
   },
   {
     id: 18,
-    name: "Roberto Baggio",
+    name: "Robert Lewandowski",
     clues: [
-      "El jugador que estoy pensando es italiano",
-      "Es conocido como 'El Divino'",
-      "Falló un penalti decisivo en la final del Mundial de 1994",
-      "Ganó el Balón de Oro en 1993",
-      "Es conocido por su coleta y por ser budista"
+      "Máximo goleador histórico de la Bundesliga",
+      "Ha marcado más de 40 goles en 7 temporadas consecutivas",
+      "Fue considerado un traidor por irse del Dortmund al Bayern Munich",
+      "Le iban a dar el Balon de oro en 2020 pero no lo ganó por Covid",
+      "Crucial en el sextete con el Bayern Munich",
     ]
   },
   {
@@ -256,7 +256,7 @@ export const footballLegends: FootballLegend[] = [
       "Ganó el Mundial siendo muy joven en 2018",
       "Jugó en el Monaco y PSG antes de dar el salto a otro gigante europeo",
       "Es conocido por su increíble velocidad",
-      "Es considerado el heredero de Messi y Cristiano"
+      "Es considerado el heredero de Cristiano"
     ]
   },
   {
@@ -288,7 +288,7 @@ export const footballLegends: FootballLegend[] = [
       "El jugador que estoy pensando es inglés",
       "Es famoso por sus pases largos y tiros libres",
       "Jugó en el Manchester United y Real Madrid, entre otros",
-      "Se convirtió en una celebridad global y un icono de la moda",
+      "Se convirtió en un empresario y un icono de la moda",
       "Actualmente es propietario del Inter Miami"
     ]
   },
@@ -311,7 +311,7 @@ export const footballLegends: FootballLegend[] = [
       "Es considerado uno de los mejores porteros de la historia",
       "Capitán de la selección española en los títulos de 2008, 2010 y 2012",
       "Pasó la mayor parte de su carrera en el Real Madrid",
-      "Es conocido como 'San Iker' por sus increíbles paradas"
+      "Es conocido como 'Santo' por sus increíbles paradas"
     ]
   },
   {
@@ -319,7 +319,7 @@ export const footballLegends: FootballLegend[] = [
     name: "Andrea Pirlo",
     clues: [
       "El jugador que estoy pensando es italiano",
-      "Era conocido como 'El Arquitecto' o 'El Maestro'",
+      "Era conocido como 'El Arquitecto' o 'El Maestro' en italia",
       "Famoso por su visión de juego y pases precisos",
       "Ganó el Mundial con Italia en 2006",
       "Jugó en el Milan y la Juventus, entre otros equipos"
@@ -331,9 +331,9 @@ export const footballLegends: FootballLegend[] = [
     clues: [
       "El jugador que estoy pensando es camerunés",
       "Ganó la Champions League con el Barcelona y el Inter en años consecutivos",
-      "Es el máximo goleador histórico de la selección de Camerún",
-      "Fue un delantero veloz y letal",
-      "Actualmente es presidente de la federación de fútbol de su país"
+      "Anoto el primer gol en la champions Barcelona vs Manchester United 2009",
+      "Salio del barcelona con problemas con Pep Guardiola",
+      "Es conocido por tener 2 tripletes seguidos"
     ]
   },
   {
@@ -382,45 +382,45 @@ export const footballLegends: FootballLegend[] = [
   },
   {
     id: 35,
-    name: "Luis Figo",
+    name: "Halaand",
     clues: [
-      "El jugador que estoy pensando es portugués",
-      "Ganó el Balón de Oro en 2000",
-      "Jugó tanto para el Barcelona como para el Real Madrid",
-      "Su traspaso entre estos equipos fue muy polémico",
-      "Era un extremo habilidoso conocido por sus regates"
+      "Delantero letal de Manchester City",
+      "A pesar de ser tan joven, ya tiene +300 goles",
+      "Gano su primera champions con el manchester city en el 2023",
+      "marcó 20 goles en solo 16 partidos de clasificación para mundial 2022 con Noruega.",
+      "es uno de los delanteros más imponentes físicamente, lo que le permite superar a defensores"
     ]
   },
   {
     id: 36,
-    name: "Oliver Kahn",
+    name: "Sergio Ramos",
     clues: [
-      "El jugador que estoy pensando es alemán",
-      "Era un portero conocido por su carácter intenso",
-      "Jugó en el Bayern Munich durante la mayor parte de su carrera",
-      "Lo apodaban 'El Titán' o 'King Kahn'",
-      "Fue elegido mejor jugador del Mundial 2002 a pesar de no ganarlo"
+      "Ha marcado más de 100 goles con el Real Madrid, un récord impresionante para un defensor",
+      "Marco un gol agonico en la final de la champions para el real madrid en el 2014",
+      "Su habilidad para ganar balones aéreos es insuperable, siendo uno de los defensores más peligrosos en jugadas de cabeza",
+      "ha sido el capitán de la selección española y del Real Madrid",
+      "Jugo como defensor en el PSG, Real Madrid y Monterrey "
     ]
   },
   {
     id: 37,
     name: "Luis Suárez",
     clues: [
-      "El jugador que estoy pensando es uruguayo",
-      "Es conocido por su capacidad goleadora y su intensidad",
+      "El jugador que estoy pensando es delanterouruguayo",
+      "Es conocido por su capacidad goleadora y su intensidad mordiendo a los defensores",
       "Formó parte del tridente 'MSN' en el Barcelona",
       "Ha jugado en Ajax, Liverpool, Barcelona y Atlético de Madrid",
-      "Ha sido objeto de controversias por algunos incidentes en el campo"
+      "Paro la pelota con la mano en el mundial de brasil 2010 a pesar de no ser arquero"
     ]
   },
   {
     id: 38,
-    name: "Sergio Ramos",
+    name: "Puyol",
     clues: [
       "El jugador que estoy pensando es español",
-      "Es un defensor con un notable olfato goleador",
-      "Capitán del Real Madrid durante muchos años",
-      "Marcó un gol crucial en el minuto 93 de una final de Champions",
+      "Es un defensor con gran porcentaje de partidos ganados con el barcelona",
+      "Capitán del Barcelona durante varios años",
+      "Marcó un gol crucial en el semifinal mundial de brasil 2014",
       "Ha ganado un Mundial y dos Eurocopas con España"
     ]
   },
